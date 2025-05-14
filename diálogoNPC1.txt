@@ -4,3 +4,4 @@
 
 - ¿Qué dices, vienes o no? 
 
+["dialogoNPC-SI"]
